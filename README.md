@@ -1,4 +1,4 @@
-# EX.-NO-2-D-IMPLEMENTATION-OF-MD5
+# EX.11-IMPLEMENTATION-OF-MD5
 
 ## AIM:
   To write a program to implement the MD5 hashing technique.
